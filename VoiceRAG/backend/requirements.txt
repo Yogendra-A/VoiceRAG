@@ -1,0 +1,13 @@
+fastapi
+uvicorn[standard]
+langchain
+langchain-community
+langchain-text-splitters
+faiss-cpu
+sentence-transformers
+openai-whisper
+groq
+pypdf
+python-multipart
+pydantic
+numpy
